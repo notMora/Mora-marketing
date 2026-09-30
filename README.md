@@ -17,6 +17,10 @@ En `output/AAAA-MM-DD/`:
 Te llega una notificación con las slides y el `pack.md`. Tú revisas y publicas:
 **12:15 carrusel · 18:30 Reel A · stories repartidas en el día · responde los comentarios con la palabra clave en menos de 1 h.**
 
+## Automatización
+Rutina de Claude Code **"Mora Design · pack diario de Instagram"**, todos los días a las **06:52 (Europe/Zurich)**. Abre una sesión nueva en la nube, clona este repo, ejecuta `.claude/skills/daily-pack/SKILL.md`, hace push a `main` y te envía las slides y el `pack.md` con notificación push. Los lunes añade la revisión semanal.
+Puedes pausarla, cambiar la hora o lanzarla a mano desde claude.ai/code → Routines.
+
 ## Antes de empezar (una sola vez)
 1. Optimiza el perfil siguiendo `strategy/profile.md` (nombre buscable, bio, link con UTM, highlights, posts fijados).
 2. Lee `strategy/funnel.md`: el motor de leads es la **palabra clave en comentarios → DM → auditoría gratis de 3 min (Loom) → llamada de 20 min**.
