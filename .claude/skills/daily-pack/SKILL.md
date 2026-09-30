@@ -5,7 +5,7 @@ description: Generate today's Instagram content pack for Mora Design (trend rese
 
 # Daily pack (orchestrator)
 
-You coordinate; cheap subagents write. Do not read web pages or long files yourself. Work from the repo root (`/home/user/mora-marketing` in cloud sessions) and start every subagent prompt with "Repo root: <absolute path> (use absolute paths)." — subagents may start in another directory.
+You coordinate; cheap subagents write. Do not read web pages or long files yourself. Work from the repo root (the folder holding this repo's CLAUDE.md, e.g. `/home/user/Mora-marketing` or `/home/user/mora-marketing`; `git rev-parse --show-toplevel`) and start every subagent prompt with "Repo root: <absolute path> (use absolute paths)." — subagents may start in another directory.
 
 ## 1. Slot
 ```bash
