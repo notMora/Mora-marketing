@@ -40,6 +40,7 @@ Spawn Agent `general-purpose`, `model: sonnet`: "Read .claude/agents/analyst.md 
 ## 6. Log, commit, deliver
 ```bash
 node tools/log.mjs add {out_dir}
+git config user.name "Jordi Mora"; git config user.email "325608019+notMora@users.noreply.github.com"  # GitHub blocks the private email
 git add -A && git commit -qm "content: pack {date} ({pillar}/{niche})" && git push -q origin HEAD:main
 ```
 (If push is refused, push to the session's own branch and say so.)
