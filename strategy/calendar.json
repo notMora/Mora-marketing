@@ -1,0 +1,26 @@
+{
+  "timezone": "Europe/Zurich",
+  "weekly_grid": {
+    "mon": { "pillar": "money-leaks", "stage": "TOFU" },
+    "tue": { "pillar": "concept-demos", "stage": "MOFU" },
+    "wed": { "pillar": "owner-playbook", "stage": "MOFU" },
+    "thu": { "pillar": "money-leaks", "stage": "TOFU" },
+    "fri": { "pillar": "offer-process", "stage": "BOFU" },
+    "sat": { "pillar": "behind-the-build", "stage": "TOFU" },
+    "sun": { "pillar": "offer-process", "stage": "BOFU" }
+  },
+  "niches": [
+    { "id": "physio", "label": "physiotherapy & massage practices", "path": "/website-for-physiotherapy-clinics/" },
+    { "id": "beauty", "label": "beauty, nail & lash studios", "path": "/website-for-beauty-salons/" },
+    { "id": "hair", "label": "hair salons & barbershops", "path": "/website-for-hair-salons/" },
+    { "id": "trades", "label": "tradespeople (renovation, plumbing, electrical)", "path": "/website-for-tradespeople/" }
+  ],
+  "services": [
+    { "id": "web-design", "label": "a website that brings enquiries", "path": "/services/web-design/", "keyword": "AUDIT" },
+    { "id": "online-booking", "label": "online bookings & payments", "path": "/services/online-booking/", "keyword": "BOOKING" },
+    { "id": "ai-assistant", "label": "an AI assistant that replies 24/7", "path": "/services/ai-assistant/", "keyword": "AI" }
+  ],
+  "keyword_overrides": { "behind-the-build": "CONCEPT" },
+  "deep_research_day": "mon",
+  "daily_outputs": { "carousel_slides": [7, 9], "reels": 2, "stories": [3, 4] }
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-30",
+  "slug": "owner-playbook-hair",
+  "pillar": "owner-playbook",
+  "stage": "MOFU",
+  "niche": "hair",
+  "service": "online-booking",
+  "keyword": "BOOKING",
+  "hook_tag": "number",
+  "trend_ref": "Save-worthy numbered checklists are over-indexing on saves this week",
+  "slides": [
+    { "layout": "cover", "kicker": "For hair salon & barbershop owners", "title": "5 things clients check before they book you", "highlight": "before they book", "sub": "Most salons miss #4. Swipe →", "image_prompt": null },
+    { "layout": "text", "kicker": "The problem", "title": "They decide in 10 seconds", "highlight": "10 seconds", "body": "A new client finds you on Instagram or Google, opens your link on their phone, and decides almost instantly if booking you is easy." },
+    { "layout": "list", "title": "The 5 checks", "items": ["Prices by service, visible", "Real photos of your work", "Who does what (your team)", "**Book in 3 taps**, day and time", "Where you are and how to park"] },
+    { "layout": "compare", "title": "Booking by DM vs online", "left": { "label": "By DM", "items": ["\"Do you have time Saturday?\"", "Reply next morning", "Client already booked elsewhere"] }, "right": { "label": "Online", "items": ["Sees free slots at 11pm", "Books in 3 taps", "Gets confirmation instantly"] } },
+    { "layout": "stat", "kicker": "Why it matters", "value": "24/7", "label": "Your booking page works while you're cutting hair, sleeping or on holiday.", "highlight": "while you're cutting hair" },
+    { "layout": "steps", "title": "How I set it up", "steps": [ { "t": "20-min call", "d": "Your services, prices and schedule." }, { "t": "You approve", "d": "See the design before you pay anything." }, { "t": "Go live", "d": "Clients book, you get notified." } ] },
+    { "layout": "quote", "quote": "Your competitor isn't better. Their booking is just easier.", "highlight": "easier", "author": "Jordi Mora" },
+    { "layout": "cta", "kicker": "Want this for your salon?", "title": "Comment", "keyword": "BOOKING", "sub": "I'll send you a free 3-minute review of how clients book you today.", "risk": "Design approved before you pay" }
+  ],
+  "caption": "5 things clients check before they book your salon 👇\n\nA new client decides in seconds if booking you is easy.\n\n1. Prices by service\n2. Real photos of your work\n3. Who does what\n4. Booking in 3 taps (most salons miss this one)\n5. Where you are and how to park\n\nIf #4 is \"send me a DM\", you're losing late-night bookings.\n\nComment BOOKING and I'll send you a free 3-minute review of how clients book you today.\n\nWebsites & online booking for hair salons and barbershops in Switzerland.",
+  "first_comment": "Save this for your next website update ✂️",
+  "hashtags": ["#coiffeurschweiz", "#barbershopzurich", "#salonowner", "#smallbusinessswitzerland"],
+  "alt_text": "Carousel: 5 things clients check before booking a hair salon — prices, photos, team, 3-tap online booking, location.",
+  "link": "https://moradesign.shop/website-for-hair-salons/?utm_source=instagram&utm_medium=social&utm_campaign=ig_20260930_carousel_owner-playbook-hair",
+  "reels": [
+    { "id": "A", "hook": "POV: it's 11pm and a new client wants to book", "hook_tag": "pov", "trend": "calm-vs-chaos reveal", "cover_title": "It's 11pm. They want to book.", "cover_highlight": "11pm" },
+    { "id": "B", "hook": "Booking by DM vs booking in 3 taps", "hook_tag": "vs", "trend": null, "cover_title": "DM vs 3 taps", "cover_highlight": "3 taps" }
+  ]
+}

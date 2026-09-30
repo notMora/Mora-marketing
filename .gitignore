@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.local
+_carousel.html
+_sheet.html
+.DS_Store

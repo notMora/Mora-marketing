@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-30",
+  "slug": "owner-playbook-physio",
+  "pillar": "owner-playbook",
+  "stage": "MOFU",
+  "niche": "physio",
+  "service": "ai-assistant",
+  "keyword": "AI",
+  "hook_tag": "stop",
+  "trend_ref": "Save-worthy text carousel + searchable Q&A angle (mysocialboutique.co, blog.mean.ceo)",
+  "slides": [
+    { "layout": "cover", "kicker": "For physio & massage practice owners", "title": "Stop answering the same 5 patient questions", "highlight": "same 5", "sub": "Save this list. Swipe →", "image_prompt": "A quiet reception desk in a bright physiotherapy practice in Switzerland, evening window light, muted tones, a smartphone lying on the desk with a chat conversation open, no readable text, no people, no logos" },
+    { "layout": "text", "kicker": "The problem", "title": "Same questions. Every week.", "highlight": "Every week", "body": "New patients message before they call. A handful of questions, typed out between appointments or at 9pm on the sofa. Each one is small. Together they eat your evenings." },
+    { "layout": "list", "kicker": "Do this first", "title": "The 5 questions to answer once", "highlight": "once", "items": ["Are you taking new patients?", "Do I need a doctor's prescription?", "How long is the first appointment?", "Where are you, and where do I park?", "How do I cancel or move my slot?"] },
+    { "layout": "compare", "title": "Same question, 9pm", "left": { "label": "Typing it yourself", "items": ["Type the same answer again", "Reply tomorrow morning", "Patient waits, or goes elsewhere"] }, "right": { "label": "AI assistant", "items": ["Answers in seconds, day or night", "Uses the answers you wrote", "Health questions come to you, with an alert"] } },
+    { "layout": "steps", "title": "How to write the answers", "steps": [ { "t": "Two sentences", "d": "Answer each question in plain words. No jargon." }, { "t": "Put it everywhere", "d": "Website FAQ, Google profile, Instagram highlight." }, { "t": "Keep it current", "d": "Hours, holidays, new-patient status: update when they change." } ] },
+    { "layout": "stat", "kicker": "Why it matters", "value": "9pm", "label": "The question arrives after you close. The answer shouldn't wait until morning.", "highlight": "shouldn't wait until morning" },
+    { "layout": "list", "kicker": "Save this", "title": "Your 5-step checklist", "highlight": "5-step", "items": ["Write 5 answers in plain words", "Add them to your website FAQ", "Pin them in an Instagram highlight", "Health questions always go to you", "Let an AI assistant send them **24/7**"] },
+    { "layout": "cta", "kicker": "Want this done for you?", "title": "Comment", "keyword": "AI", "sub": "I'll send you a free 3-minute review of your website and the patient questions it leaves unanswered.", "risk": "Design approved before you pay" }
+  ],
+  "caption": "Stop answering the same 5 questions from new patients 👇\n\nA few questions come up again and again:\n\n1. Are you taking new patients?\n2. Do I need a doctor's prescription?\n3. How long is the first appointment?\n4. Where are you, and where do I park?\n5. How do I cancel or move my slot?\n\nWrite each answer once, in two plain sentences. Put it on your website FAQ, your Google profile and an Instagram highlight.\n\nThen let an AI assistant send them 24/7. Health questions still come to you, with an alert.\n\nComment AI and I'll send you a free 3-minute review of your website and which of these questions it leaves unanswered.\n\nWebsites and AI assistants for physiotherapy and massage practices in Switzerland.",
+  "first_comment": "Save this for your next website update. Which question do you type most often?",
+  "hashtags": ["#physiotherapieschweiz", "#physiotherapiezürich", "#massageschweiz", "#smallbusinessswitzerland"],
+  "alt_text": "Carousel: the 5 questions new patients ask a physio or massage practice, how to write the answers once, and how an AI assistant can send them 24/7.",
+  "link": "https://moradesign.shop/website-for-physiotherapy-clinics/?utm_source=instagram&utm_medium=social&utm_campaign=ig_20260930_carousel_owner-playbook-physio",
+  "reels": [
+    { "id": "A", "hook": "Physio owners: your inbox at 9pm", "hook_tag": "reveal", "trend": "Upside Down (Diana Ross) chaos-to-calm reveal, socialbee.com", "cover_title": "Your inbox at 9pm", "cover_highlight": "9pm" },
+    { "id": "B", "hook": "Can AI answer your patients' messages?", "hook_tag": "question", "trend": "Short-form Q&A Reel, blog.mean.ceo", "cover_title": "Can AI answer patients?", "cover_highlight": "AI" }
+  ]
+}

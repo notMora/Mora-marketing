@@ -1,0 +1,146 @@
+{
+  "date": "2026-09-30",
+  "mode": "deep",
+  "based_on": null,
+  "audios": [
+    {
+      "name": "September",
+      "artist": "Earth, Wind & Fire",
+      "vibe": "Upbeat, autumn-ready energy",
+      "adapt": "Physio/beauty intro: 'September vibes, new season, new you' transformation or fall promo reel",
+      "source": "https://socialbee.com/blog/trending-instagram-songs/"
+    },
+    {
+      "name": "Sunny",
+      "artist": "Boney M. and R3HAB",
+      "vibe": "Bright, feel-good disco",
+      "adapt": "Hair salon or barber transformation: sunny before-after with upbeat energy",
+      "source": "https://socialbee.com/blog/trending-instagram-songs/"
+    },
+    {
+      "name": "Funkytown",
+      "artist": "Lipps Inc.",
+      "vibe": "Disco, energetic montage",
+      "adapt": "Web designer portfolio or spa walkthrough tour using disco energy",
+      "source": "https://buffer.com/resources/trending-audio-instagram/"
+    },
+    {
+      "name": "Upside Down",
+      "artist": "Diana Ross",
+      "vibe": "Confident transformation energy",
+      "adapt": "Beauty/salon makeup transformation or 'before booking vs after' reel",
+      "source": "https://socialbee.com/blog/latest-instagram-trends/"
+    },
+    {
+      "name": "La La La",
+      "artist": "Gilmore Girls",
+      "vibe": "Cozy autumn, nostalgic",
+      "adapt": "Fall promo for cozy services: physio relaxation, salon autumn bookings",
+      "source": "https://socialbee.com/blog/latest-instagram-trends/"
+    },
+    {
+      "name": "Nicole Kidman",
+      "artist": "ADELA",
+      "vibe": "Confident, self-assured",
+      "adapt": "Barber/salon owner confidence moment or client testimonial reel",
+      "source": "https://socialbee.com/blog/latest-instagram-trends/"
+    }
+  ],
+  "reel_formats": [
+    {
+      "name": "This is your sign",
+      "how": "B-roll from camera roll with on-screen text pointing at the 'sign' + call-to-action",
+      "adapt": "Salon/physio: 'This is your sign to book that appointment' or 'This is your sign to redesign your online presence'",
+      "source": "https://socialbee.com/blog/latest-instagram-trends/"
+    },
+    {
+      "name": "Two Friends, Two Vibes",
+      "how": "Show two different personalities or approaches working together seamlessly",
+      "adapt": "Barber team dynamics or web designer collaborating with salon owner on booking system",
+      "source": "https://socialbee.com/blog/latest-instagram-trends/"
+    },
+    {
+      "name": "Low-production founder content",
+      "how": "Clear opinions, proof from your work, phone-shot quality, answers instead of announcements",
+      "adapt": "Salon owner sharing '5 booking mistakes I made' or 'why I switched to online booking'",
+      "source": "https://newengen.com/insights/instagram-trends/"
+    },
+    {
+      "name": "Short-form Q&A Reels",
+      "how": "Answer a searched question in 15-30 seconds with searchable captions",
+      "adapt": "Physio: 'How long does a first appointment take?' or salon: 'What should I wear to my first cut?'",
+      "source": "https://blog.mean.ceo/instagram-trends-september-2026/"
+    }
+  ],
+  "carousel_formats": [
+    {
+      "name": "Unfortunately I Do Love...",
+      "why": "Admitting things you love (even if embarrassing) builds relatability and personality",
+      "adapt": "Salon owner: 'Unfortunately I do love Instagram trends' → carousel selling reels service",
+      "source": "https://mysocialboutique.co/instagram-trends-2026/"
+    },
+    {
+      "name": "My Recent Flops",
+      "why": "Sharing failures humanizes and drives saves; builds trust for coaching/services",
+      "adapt": "Web designer or salon: 'Website redesigns that flopped (and how I fixed them)'",
+      "source": "https://mysocialboutique.co/instagram-trends-2026/"
+    },
+    {
+      "name": "5 Things I Don't Do",
+      "why": "Text-based carousel setting clear boundaries or philosophy; high save rate",
+      "adapt": "Salon: '5 trends I don't follow' or web designer: '5 things I don't do in UX'",
+      "source": "https://newengen.com/insights/instagram-trends/"
+    }
+  ],
+  "platform_news": [
+    {
+      "item": "Instagram replaces Q&A with Ask Maps (AI-powered)",
+      "impact": "Business profiles: update FAQs; Google Business Profile now auto-answers questions, so ensure your profile data is rich and current",
+      "source": "https://socialbee.com/blog/instagram-updates/"
+    },
+    {
+      "item": "Google Business Profile: 30-day freshness signal enforced",
+      "impact": "Post monthly updates, reply to reviews same-week. Inactive profiles drop in local search.",
+      "source": "https://ueni.com/blog/google-my-business/"
+    },
+    {
+      "item": "Meta launches Muse for Small Business (Sept 29, 2026)",
+      "impact": "AI agent connecting Asana, Zoom, Slack, Canva, Meta ads. Swiss salon/physio owners: use for scheduling + social management automation",
+      "source": "https://www.lilachbullock.com/ai-news-this-week-small-business-27-september-2026/"
+    },
+    {
+      "item": "Google AI scans menus/PDFs and formats them into digital layouts",
+      "impact": "Service-based businesses: document your booking process, services, pricing in photos; Google auto-extracts and displays",
+      "source": "https://searchengineland.com/library/platforms/google/google-business-profile"
+    }
+  ],
+  "industry_hooks": [
+    {
+      "topic": "Carousel posts outperform Reels on saves and shares",
+      "angle": "Small business owners avoid video production anxiety: carousels = higher engagement for service proof (before-afters, client stories)",
+      "source": "https://mysocialboutique.co/instagram-trends-2026/"
+    },
+    {
+      "topic": "Low-production content wins saves/DMs/leads",
+      "angle": "Salon/physio owner: post raw, founder-led content. Success ≠ likes; measure via saves, DMs, and bookings",
+      "source": "https://newengen.com/insights/instagram-trends/"
+    },
+    {
+      "topic": "Local.ch is Switzerland's #1 booking platform (500k+ profiles)",
+      "angle": "Swiss beauty/physio/trades: if you're not on local.ch or linked to Meta Muse, competitors are capturing your online booking traffic",
+      "source": "https://www.reservio.com/blog/tips/best-booking-system"
+    },
+    {
+      "topic": "AI in Swiss business: 83% of retailers use AI (2026)",
+      "angle": "Web designer pitch: AI isn't optional. Build clients' booking bots, email automation, social content drafts.",
+      "source": "https://www.reservio.com/blog/tips/best-booking-system"
+    }
+  ],
+  "ideas": [
+    "Autumn energy (September audio) → salon autumn promo reel → 'Book your fall glow-up this month'",
+    "Carousel + Low-production = salon 'My Recent Flops' (rebrand disasters, client wins) → proves real work → DM inquiries",
+    "Q&A death on Instagram → push Google Business Profile updates → ensure Muse/Ask Maps sees fresh data",
+    "Founder content trend + physio expertise = '5 booking mistakes I made' carousel + CTA to web redesign service",
+    "Local.ch + Meta Muse integration → Swiss salon owner can automate booking, social drafts, ads—sell the stack"
+  ]
+}
